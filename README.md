@@ -4,7 +4,7 @@ Sphinx documentation of rcouch.
 
 The RCOUCH documentation is available at:
 
-    http://docs.rcouch.org
+http://docs.rcouch.org
 
 ## Requirements:
 
